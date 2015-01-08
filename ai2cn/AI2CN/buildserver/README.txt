@@ -1,0 +1,1 @@
+Copy all files in \appinventor\buildserver\build\run\lib to here.

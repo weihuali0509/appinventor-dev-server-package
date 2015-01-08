@@ -1,0 +1,1 @@
+Copy all file in \appinventor\appengine\build\war to here.
